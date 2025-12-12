@@ -1,0 +1,160 @@
+[[StreamVByte]]
+arch = "aarch64"
+git-tree-sha1 = "c6214b3c779fa1e07f2d6940088175689cb67fc3"
+os = "macos"
+
+    [[StreamVByte.download]]
+    sha256 = "a077e9db5b04546e6b20c5fcaf8b24e97bcf0d1334fe43521be21bd23611c46f"
+    url = "https://github.com/JuliaBinaryWrappers/StreamVByte_jll.jl/releases/download/StreamVByte-v2.0.0+0/StreamVByte.v2.0.0.aarch64-apple-darwin.tar.gz"
+[[StreamVByte]]
+arch = "aarch64"
+git-tree-sha1 = "876e33a9916507c35f21abf35876d1caa2629e8e"
+libc = "glibc"
+os = "linux"
+
+    [[StreamVByte.download]]
+    sha256 = "d6133a2b8bd924cb97f466636838891b17faaf837f023bff5d80da839acc6d7b"
+    url = "https://github.com/JuliaBinaryWrappers/StreamVByte_jll.jl/releases/download/StreamVByte-v2.0.0+0/StreamVByte.v2.0.0.aarch64-linux-gnu.tar.gz"
+[[StreamVByte]]
+arch = "aarch64"
+git-tree-sha1 = "fd7c5294e1d3edcb0313fd444aec2fbbe2a40638"
+libc = "musl"
+os = "linux"
+
+    [[StreamVByte.download]]
+    sha256 = "8435b5e46c41041f5dfb5d94216192292acba04d292c1d8ae78a99504067a8d9"
+    url = "https://github.com/JuliaBinaryWrappers/StreamVByte_jll.jl/releases/download/StreamVByte-v2.0.0+0/StreamVByte.v2.0.0.aarch64-linux-musl.tar.gz"
+[[StreamVByte]]
+arch = "aarch64"
+git-tree-sha1 = "7194b5f55e658e867ed5c7b37c1dbb9c3a660fc1"
+os = "freebsd"
+
+    [[StreamVByte.download]]
+    sha256 = "1773af01be5b877ac8b2bad17239f9abe0ccb50f0f15d2bd9d7531d460242f37"
+    url = "https://github.com/JuliaBinaryWrappers/StreamVByte_jll.jl/releases/download/StreamVByte-v2.0.0+0/StreamVByte.v2.0.0.aarch64-unknown-freebsd.tar.gz"
+[[StreamVByte]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6facd364de73db5e63b11deff0bcc9d51bfbc725"
+libc = "glibc"
+os = "linux"
+
+    [[StreamVByte.download]]
+    sha256 = "a2c8a8570dbe55d932dff60ce5f82c1697a55812215d85a52338eaaebbcf1eb8"
+    url = "https://github.com/JuliaBinaryWrappers/StreamVByte_jll.jl/releases/download/StreamVByte-v2.0.0+0/StreamVByte.v2.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[StreamVByte]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "18dc9d268745bfaf7c3084be60d00f423151333a"
+libc = "musl"
+os = "linux"
+
+    [[StreamVByte.download]]
+    sha256 = "3d69624dcddd651e53cff1e84e2e2a865e59050725f1b927f531587651009e89"
+    url = "https://github.com/JuliaBinaryWrappers/StreamVByte_jll.jl/releases/download/StreamVByte-v2.0.0+0/StreamVByte.v2.0.0.armv6l-linux-musleabihf.tar.gz"
+[[StreamVByte]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2106ff70e53236aa6d7710bc1b4c4354a9f2bd4e"
+libc = "glibc"
+os = "linux"
+
+    [[StreamVByte.download]]
+    sha256 = "cf43ddb01125219d8bc5dffd8f0926a0b580e6ce6d2fb1a40d06399c8b8898a7"
+    url = "https://github.com/JuliaBinaryWrappers/StreamVByte_jll.jl/releases/download/StreamVByte-v2.0.0+0/StreamVByte.v2.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[StreamVByte]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "990fd6ac035b334fc4e28616dda03658fdac927d"
+libc = "musl"
+os = "linux"
+
+    [[StreamVByte.download]]
+    sha256 = "695bda25aa6ef9d1d66df579db43fe663c912de9f5c1cf23e52c2391ef1f05b3"
+    url = "https://github.com/JuliaBinaryWrappers/StreamVByte_jll.jl/releases/download/StreamVByte-v2.0.0+0/StreamVByte.v2.0.0.armv7l-linux-musleabihf.tar.gz"
+[[StreamVByte]]
+arch = "i686"
+git-tree-sha1 = "5fbd2e728e4e92a9aa5e2639c5903cfeb78898f2"
+libc = "glibc"
+os = "linux"
+
+    [[StreamVByte.download]]
+    sha256 = "0caabd170bf57fa455f09491a98c682f2c79be44ab6e02e0d96dd002581256f6"
+    url = "https://github.com/JuliaBinaryWrappers/StreamVByte_jll.jl/releases/download/StreamVByte-v2.0.0+0/StreamVByte.v2.0.0.i686-linux-gnu.tar.gz"
+[[StreamVByte]]
+arch = "i686"
+git-tree-sha1 = "14b5c30e1be0afa3785d98eaade7beb331ffae6f"
+libc = "musl"
+os = "linux"
+
+    [[StreamVByte.download]]
+    sha256 = "47c1b05d70723b1fb7a0bc629a10e98a999ae1e181814607470b80972c55fdae"
+    url = "https://github.com/JuliaBinaryWrappers/StreamVByte_jll.jl/releases/download/StreamVByte-v2.0.0+0/StreamVByte.v2.0.0.i686-linux-musl.tar.gz"
+[[StreamVByte]]
+arch = "i686"
+git-tree-sha1 = "2d7ba0af5cb247dc1f216dbc7d97a60e84ee4457"
+os = "windows"
+
+    [[StreamVByte.download]]
+    sha256 = "f99718ef40c7dd9d26f30cf7c4cf8d6b9cc8b8d928552db7fb2f8a6cc0ae2b69"
+    url = "https://github.com/JuliaBinaryWrappers/StreamVByte_jll.jl/releases/download/StreamVByte-v2.0.0+0/StreamVByte.v2.0.0.i686-w64-mingw32.tar.gz"
+[[StreamVByte]]
+arch = "powerpc64le"
+git-tree-sha1 = "5d5386d8437ea0f81d14683d11e5cb36d10bf642"
+libc = "glibc"
+os = "linux"
+
+    [[StreamVByte.download]]
+    sha256 = "f3eb07f26e343c4cf175b4d1f76f7d44be8429e432345cbdd396580af0ab6981"
+    url = "https://github.com/JuliaBinaryWrappers/StreamVByte_jll.jl/releases/download/StreamVByte-v2.0.0+0/StreamVByte.v2.0.0.powerpc64le-linux-gnu.tar.gz"
+[[StreamVByte]]
+arch = "riscv64"
+git-tree-sha1 = "a0ef503f7e261500548d18592334624dea3673a6"
+libc = "glibc"
+os = "linux"
+
+    [[StreamVByte.download]]
+    sha256 = "6df57e6b2f0e92783b704212363c3f90291164e58e8e225a3ace59e9649867eb"
+    url = "https://github.com/JuliaBinaryWrappers/StreamVByte_jll.jl/releases/download/StreamVByte-v2.0.0+0/StreamVByte.v2.0.0.riscv64-linux-gnu.tar.gz"
+[[StreamVByte]]
+arch = "x86_64"
+git-tree-sha1 = "f2edb1881356fff49c645b3f7fd1b63940187304"
+os = "macos"
+
+    [[StreamVByte.download]]
+    sha256 = "e17b104da4922fc4c94d7b3699f6bd0be463037017ac95e3146a91c8b0620996"
+    url = "https://github.com/JuliaBinaryWrappers/StreamVByte_jll.jl/releases/download/StreamVByte-v2.0.0+0/StreamVByte.v2.0.0.x86_64-apple-darwin.tar.gz"
+[[StreamVByte]]
+arch = "x86_64"
+git-tree-sha1 = "4a190d4326b3394420191f21db5e42f26329c6e9"
+libc = "glibc"
+os = "linux"
+
+    [[StreamVByte.download]]
+    sha256 = "4fe908e4b04fc713e103659ed720931c2464c580840a8c5c18142c53cc8f372d"
+    url = "https://github.com/JuliaBinaryWrappers/StreamVByte_jll.jl/releases/download/StreamVByte-v2.0.0+0/StreamVByte.v2.0.0.x86_64-linux-gnu.tar.gz"
+[[StreamVByte]]
+arch = "x86_64"
+git-tree-sha1 = "340119202c57608ad8bc58dc1d512443b5c9dde9"
+libc = "musl"
+os = "linux"
+
+    [[StreamVByte.download]]
+    sha256 = "348a850f935fac7cbd09a71b379ba1daef713c05ca0477110dbf56b525eaf9ea"
+    url = "https://github.com/JuliaBinaryWrappers/StreamVByte_jll.jl/releases/download/StreamVByte-v2.0.0+0/StreamVByte.v2.0.0.x86_64-linux-musl.tar.gz"
+[[StreamVByte]]
+arch = "x86_64"
+git-tree-sha1 = "2750313d1cc4a9fe3d5a779bb2af3c3bfceec729"
+os = "freebsd"
+
+    [[StreamVByte.download]]
+    sha256 = "d96174e6aa52c188b116a949917a9a23afd6285b3848ddcc15087f4e8ffdee75"
+    url = "https://github.com/JuliaBinaryWrappers/StreamVByte_jll.jl/releases/download/StreamVByte-v2.0.0+0/StreamVByte.v2.0.0.x86_64-unknown-freebsd.tar.gz"
+[[StreamVByte]]
+arch = "x86_64"
+git-tree-sha1 = "fd6b987a535c6fb2aff4d9acd303b20aa7c05a7c"
+os = "windows"
+
+    [[StreamVByte.download]]
+    sha256 = "2a8255256bcd615f6112d2104169bb1aaa5b73e28bf047c9b9c4de1528a36d8e"
+    url = "https://github.com/JuliaBinaryWrappers/StreamVByte_jll.jl/releases/download/StreamVByte-v2.0.0+0/StreamVByte.v2.0.0.x86_64-w64-mingw32.tar.gz"
